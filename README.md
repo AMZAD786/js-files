@@ -28,6 +28,5 @@
       $(".chosen").chosen();
 </script>
 
-
 </body>
 </html>
